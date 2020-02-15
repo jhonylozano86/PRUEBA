@@ -6,4 +6,4 @@ j=[-1;-2;-3;-4;-5]
 M=i*2.5j
 %Tambien tener en cuenta...
 R=M-i
-Z=M-j
+Z=M-2*i*-1j
