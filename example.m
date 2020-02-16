@@ -6,6 +6,7 @@ j=[-1;-2;-3;-4;-5]
 M=i*2.5j
 %Tambien tener en cuenta...
 R=M-i
+<<<<<<< Updated upstream
 Z=M-2*i*-1j
 for k=1:5
     suma=Z+k
