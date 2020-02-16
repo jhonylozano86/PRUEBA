@@ -10,3 +10,7 @@ Z=M-2*i*-1j
 for k=1:5
     suma=Z+k
 end
+%nuevo for
+for k=1:5
+    resta=Z-k
+end
