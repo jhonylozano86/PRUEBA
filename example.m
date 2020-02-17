@@ -16,3 +16,5 @@ for k=1:5
     resta=Z-k
 end
 valor_suma=i+j
+%inclusion resta
+valor_resta=j-i
