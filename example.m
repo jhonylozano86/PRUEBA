@@ -14,5 +14,4 @@ end
 for k=1:5
     resta=Z-k
 end
-valor_suma=i+j
-valor_resta=j-i
+
